@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #petitpotam{visibility:hidden;}
 #petitpotam>span{border:red 1px solid;}
-=======
 #petitpotam{background-color:teal !important;}
 #petitpotam>div{font-size:18px;}
->>>>>>> Test
-=======
 #petitpotam{color:grey;}
 #petitpotam:first-child{display:none;}
->>>>>>> Dev
